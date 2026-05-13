@@ -1,5 +1,5 @@
-[7436:30068:0511/120556.366:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[7436:1548:0511/120556.438:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[7436:30068:0511/120556.449:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[30132:38156:0511/120604.506:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 5
-[7436:30068:0511/130944.034:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25088:63548:0513/163651.257:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25088:62740:0513/163651.405:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25088:63548:0513/163651.415:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[56408:65716:0513/163658.180:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-952CDD75430AF9B25F119F34496929E7 will be ignored
+[25088:63548:0513/181809.736:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

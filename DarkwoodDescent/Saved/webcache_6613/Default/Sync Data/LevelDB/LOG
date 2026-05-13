@@ -1,2 +1,3 @@
-2026/05/11-12:05:56.456 60c Creating DB C:\Users\green\OneDrive\문서\Unreal Projects\3DGA_DarkwoodDecent\DarkwoodDescent\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/05/11-12:05:56.467 60c Reusing MANIFEST C:\Users\green\OneDrive\문서\Unreal Projects\3DGA_DarkwoodDecent\DarkwoodDescent\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/13-16:36:51.432 f514 Reusing MANIFEST C:\Users\green\OneDrive\문서\Unreal Projects\3DGA_DarkwoodDecent\DarkwoodDescent\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/13-16:36:51.448 f514 Recovering log #3
+2026/05/13-16:36:51.450 f514 Reusing old log C:\Users\green\OneDrive\문서\Unreal Projects\3DGA_DarkwoodDecent\DarkwoodDescent\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
